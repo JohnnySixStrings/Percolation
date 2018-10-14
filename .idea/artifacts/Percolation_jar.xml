@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Percolation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Percolation_jar</output-path>
+    <root id="archive" name="Percolation.jar">
+      <element id="module-output" name="Percolation" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/algs4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
